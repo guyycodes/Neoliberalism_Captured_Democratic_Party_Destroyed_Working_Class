@@ -12,39 +12,88 @@
 
   <!-- Main Page -->
   <url>
-    <loc>https://guyycodes.github.io/hyperinflation-in-the-United-States/</loc>
-    <lastmod>2025-03-23</lastmod>
+    <loc>https://guyycodes.github.io/Neoliberalism_Captured_Democratic_Party_Destroyed_Working_Class/</loc>
+    <lastmod>2025-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <news:news>
       <news:publication>
-        <news:name>Guy Morgan Beals Economics</news:name>
+        <news:name>Guy Morgan Beals - Political & Economic Research</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-03-23</news:publication_date>
-      <news:title>U.S. Hyperinflation Risk Analysis 2025: Expert Research &amp; Economic Forecast</news:title>
-      <news:keywords>hyperinflation, U.S. economy, inflation risk, Federal Reserve, monetary policy</news:keywords>
+      <news:publication_date>2025-01-15</news:publication_date>
+      <news:title>The Great Abandonment: How Corporate Neoliberalism Captured the Democratic Party and Destroyed the American Working Class</news:title>
+      <news:keywords>Democratic Party, neoliberalism, working class, deaths of despair, Case Deaton, labor unions, political realignment, Trump voters, economic policy, social crisis</news:keywords>
     </news:news>
     <image:image>
       <image:loc>https://imgur.com/9cvyHrQ.png</image:loc>
-      <image:title>U.S. Hyperinflation Risk Analysis</image:title>
-      <image:caption>Analysis of potential U.S. hyperinflation risk compared to historical cases</image:caption>
+      <image:title>The Great Abandonment Research Document</image:title>
+      <image:caption>Comprehensive analysis of how neoliberal policies transformed the Democratic Party and devastated working-class communities</image:caption>
     </image:image>
+  </url>
+
+  <!-- Research Document -->
+  <url>
+    <loc>https://guyycodes.github.io/Neoliberalism_Captured_Democratic_Party_Destroyed_Working_Class/research-document</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Deaths of Despair Analysis -->
+  <url>
+    <loc>https://guyycodes.github.io/Neoliberalism_Captured_Democratic_Party_Destroyed_Working_Class/deaths-of-despair</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Political Realignment Section -->
+  <url>
+    <loc>https://guyycodes.github.io/Neoliberalism_Captured_Democratic_Party_Destroyed_Working_Class/political-realignment</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Solutions and Policy Recommendations -->
+  <url>
+    <loc>https://guyycodes.github.io/Neoliberalism_Captured_Democratic_Party_Destroyed_Working_Class/solutions</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
 
   <!-- GitHub Profile -->
   <url>
     <loc>https://github.com/guyycodes</loc>
-    <lastmod>2025-03-23</lastmod>
+    <lastmod>2025-01-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
 
   <!-- Repository -->
   <url>
-    <loc>https://github.com/guyycodes/hyperinflation-in-the-United-States</loc>
-    <lastmod>2025-03-23</lastmod>
+    <loc>https://github.com/guyycodes/Neoliberalism_Captured_Democratic_Party_Destroyed_Working_Class</loc>
+    <lastmod>2025-01-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-</urlset> 
+
+  <!-- Data and Sources -->
+  <url>
+    <loc>https://guyycodes.github.io/Neoliberalism_Captured_Democratic_Party_Destroyed_Working_Class/sources</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- About the Research -->
+  <url>
+    <loc>https://guyycodes.github.io/Neoliberalism_Captured_Democratic_Party_Destroyed_Working_Class/about</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+</urlset>
