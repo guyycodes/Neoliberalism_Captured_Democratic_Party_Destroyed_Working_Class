@@ -1,27 +1,27 @@
-# U.S. Hyperinflation Risk Analysis 2025
+# Neoliberalism Captured Democratic Party Destroyed Working Class
 
 ![Banner Image](https://imgur.com/9cvyHrQ.png)
 
 ## 📊 Project Overview
 
-This repository contains a comprehensive economic analysis examining the risk of hyperinflation in the United States as of 2025. The research compares current U.S. economic conditions with historical hyperinflation cases such as Weimar Germany, Zimbabwe, and Venezuela to provide an evidence-based assessment of hyperinflation likelihood.
+This repository contains a comprehensive political economy analysis examining how neoliberalism captured the Democratic Party and its devastating impact on the American working class. The research explores the ideological shift from New Deal liberalism to market-oriented policies that prioritized corporate interests over worker welfare.
 
-**Live Site**: [U.S. Hyperinflation Risk Analysis](https://guyycodes.github.io/hyperinflation-in-the-United-States/)
+**Live Site**: [Neoliberalism Captured Democratic Party Destroyed Working Class](https://guyycodes.github.io/Neoliberalism_Captured_Democratic_Party_Destroyed_Working_Class/)
 
 ## 📑 Content Sections
 
 The analysis is structured into the following key sections:
 
-1. **Introduction** - Overview of hyperinflation concerns and report objectives
-2. **Current U.S. Economic Conditions (2025)** - Analysis of debt outlook, monetary policy, and government management
-3. **Understanding Hyperinflation** - Definition, historical cases, and common causes
-4. **U.S. Hyperinflation Trajectory Assessment** - Evaluation of risk factors and structural differences
-5. **Expert Perspectives** - Summary of economic forecasts and professional opinions
-6. **Conclusion** - Final assessment of U.S. hyperinflation likelihood
+1. **Introduction** - Overview of neoliberalism's capture of the Democratic Party
+2. **Historical Context** - The shift from New Deal liberalism to neoliberal policies
+3. **Neoliberal Policies** - Deregulation, privatization, and market fundamentalism
+4. **Impact on Working Class** - Wage stagnation, job insecurity, and weakened unions
+5. **Political Consequences** - Loss of working-class support and electoral implications
+6. **Conclusion** - Assessment of neoliberalism's lasting damage to American democracy
 
 ## 🔍 Key Findings
 
-The research concludes that U.S. hyperinflation is **highly improbable** in the foreseeable future, barring extreme breakdowns in policy and production. Structural safeguards include the Federal Reserve's independence, the dollar's reserve currency status, and America's diversified economy.
+The research concludes that neoliberalism has **fundamentally transformed** the Democratic Party from a champion of working-class interests into a vehicle for corporate power. This ideological capture has contributed to rising inequality, political polarization, and the erosion of democratic institutions.
 
 ## 🌐 SEO Optimization Details
 
@@ -29,8 +29,8 @@ This repository implements comprehensive SEO optimization to maximize search vis
 
 ### Meta Tags Implementation
 
-- **Title Tag**: Optimized with target keywords "U.S. Hyperinflation Risk Analysis"
-- **Meta Description**: Concise summary highlighting the comparison with historical cases
+- **Title Tag**: Optimized with target keywords "Neoliberalism Democratic Party Working Class"
+- **Meta Description**: Concise summary highlighting neoliberalism's impact on American politics
 - **Canonical URL**: Prevents duplicate content issues
 - **Open Graph & Twitter Cards**: Enhanced social media sharing with custom images and descriptions
 - **Robots Directives**: Configured for optimal indexing and rich snippet display
@@ -39,10 +39,10 @@ This repository implements comprehensive SEO optimization to maximize search vis
 
 The website includes multiple Schema.org structured data implementations:
 
-1. **ScholarlyArticle Schema** - Communicates the academic nature of the content
-2. **FAQPage Schema** - Enhances visibility with potential featured snippets
+1. **ScholarlyArticle Schema** - Communicates the academic nature of the political analysis
+2. **FAQPage Schema** - Enhances visibility with neoliberalism-focused featured snippets
 3. **BreadcrumbList Schema** - Improves navigation context for search engines
-4. **Collection Schema** - Establishes relationship with other research content
+4. **Collection Schema** - Establishes relationship with other political economy content
 
 ### Performance Optimization
 
@@ -92,7 +92,7 @@ The site is fully responsive with:
 ### GitHub Pages Deployment
 
 This site is configured to be automatically deployed to GitHub Pages when changes are pushed to the main branch. The live version can be accessed at:
-[https://guyycodes.github.io/hyperinflation-in-the-United-States/](https://guyycodes.github.io/hyperinflation-in-the-United-States/)
+[https://guyycodes.github.io/Neoliberalism_Captured_Democratic_Party_Destroyed_Working_Class/](https://guyycodes.github.io/Neoliberalism_Captured_Democratic_Party_Destroyed_Working_Class/)
 
 ## 📈 Analytics Integration
 
@@ -111,7 +111,7 @@ Copyright © 2025 Guy Morgan Beals. All rights reserved.
 
 **Guy Morgan Beals**
 
-- LinkedIn: [guymorganb](https://www.linkedin.com/in/guymorganb/)
+- LinkedIn: [guymorganb](https://www.linkedin.com/in/morgbeals/)
 - Instagram: [guycodes](https://www.instagram.com/guycodesio)
 - Twitter: [@GuyCodesio](https://x.com/GuyCodesio)
 - GitHub: [@guyycodes](https://github.com/guyycodes)
@@ -119,9 +119,9 @@ Copyright © 2025 Guy Morgan Beals. All rights reserved.
 
 ## 🔗 Related Projects
 
-- [Economic Forecast Dashboard](https://github.com/guyycodes/economic-dashboard)
-- [Inflation Calculator](https://github.com/guyycodes/inflation-calculator)
-- [Monetary Policy Simulator](https://github.com/guyycodes/monetary-policy-simulator)
+- [Political Economy Analysis](https://github.com/guyycodes/political-economy-analysis)
+- [Labor Movement History](https://github.com/guyycodes/labor-movement-history)
+- [Democratic Party Evolution](https://github.com/guyycodes/democratic-party-evolution)
 
 ---
 
